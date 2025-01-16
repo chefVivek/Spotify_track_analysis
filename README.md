@@ -11,7 +11,6 @@ This project analyzes a Spotify dataset using various machine learning technique
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 
@@ -122,7 +121,4 @@ All visualizations are saved in the `spotify_visualizations` folder:
 
 4. Check the `spotify_visualizations` folder for outputs.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as proper credit is given.
 
